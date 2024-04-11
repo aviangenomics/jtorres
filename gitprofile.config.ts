@@ -80,7 +80,7 @@ const CONFIG = {
       'https://tvanlaar.github.io/pdfs/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'Bioinformatics', 'Genome Assembly', 'Gene Annotation', 'Python', 'R'
   ],
   experiences: [
     {
