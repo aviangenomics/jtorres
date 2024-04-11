@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Jair Torres',
     description: '',
     imageURL: '',
   },
@@ -85,17 +85,17 @@ const CONFIG = {
   experiences: [
     {
       company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      position: 'Graduate Student Instructor',
+      from: 'August 2023',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'CSU Stanislaus',
+      position: 'Peer Mentor Intern',
+      from: 'August 2023',
+      to: 'Present',
+      companyLink: 'https://www.csustan.edu/learning-commons',
     },
   ],
   certifications: [
