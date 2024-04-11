@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'tvanlaar', // Your GitHub org/user name. (This is the only required config)
+    username: 'jtorres', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['tvanlaar/MBAProjects', 'tvanlaar/Bioinformatics'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['aviangenomics/bioinformatics', '/'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
