@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['aviangenomics/bioinformatics'], ['aviangenomics/aviangenomics.github.io'// List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['aviangenomics/bioinformatics', 'aviangenomics/aviangenomics.github.io'// List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
