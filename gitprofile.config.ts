@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'I worked on this computational biology project as part of the Google Computer Science Research program. I was able to identify candidate genes that may explain various disease comorbidities.',
           imageUrl:
-            'https://github.com/aviangenomics/jtorres/blob/5b650634a87bda263fe82cd6e9bf05bc824e2255/network_example.png',
+            'https://cdn2.picryl.com/photo/2020/01/23/gray-networks-nps-uses-social-network-analysis-to-cast-a-bright-light-on-maritime-7ed448-640.jpg',
           link: 'https://github.com/aviangenomics/jtorres/blob/2690fad66f013d4460c27a71eb33b5ba1c7668f7/Networks_Jair.pdf',
         },
         {
