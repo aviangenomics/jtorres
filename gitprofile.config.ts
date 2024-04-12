@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/aviangenomics/jtorres/blob/22cc020c8cd411c9180e9b8a2ae6f7c9b91b0e0a/CV_Torres.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Bioinformatics', 'Genome Assembly', 'Gene Annotation', 'Python', 'R'
