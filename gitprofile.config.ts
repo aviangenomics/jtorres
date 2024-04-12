@@ -45,8 +45,8 @@ const CONFIG = {
           description:
             'In this project, I assembled the genome of the American Goldfinch (<i>Spinus tristis</i>) and annotated its genes. Here is a graphic showing how the TLR4 in the American Goldfinch experienced an inversion after splitting from the House Finch (<i>Haemorhous mexicanus</i>).',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/aviangenomics/jtorres/blob/9e506c96f2298a70a4b45c2bab9588dd78ea5967/TLR4%20AmGo.png',
+          link: 'https://github.com/aviangenomics/jtorres/blob/9e506c96f2298a70a4b45c2bab9588dd78ea5967/TLR4%20AmGo.png',
         },
       ],
     },
