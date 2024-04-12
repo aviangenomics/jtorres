@@ -33,12 +33,12 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Network Analysis of Disease-Gene Associations',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'I worked on this computational biology project as part of the Google Computer Science Research program. I was able to identify candidate genes that may explain various disease comorbidities.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/aviangenomics/jtorres/blob/5b650634a87bda263fe82cd6e9bf05bc824e2255/network_example.png',
+          link: 'https://github.com/aviangenomics/jtorres/blob/2690fad66f013d4460c27a71eb33b5ba1c7668f7/Networks_Jair.pdf',
         },
         {
           title: 'Project Name',
