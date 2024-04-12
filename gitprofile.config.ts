@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['aviangenomics/bioinformatics'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['aviangenomics/bioinformatics'], ['aviangenomics/aviangenomics.github.io'// List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -41,9 +41,9 @@ const CONFIG = {
           link: 'https://github.com/aviangenomics/jtorres/blob/2690fad66f013d4460c27a71eb33b5ba1c7668f7/Networks_Jair.pdf',
         },
         {
-          title: 'Project Name',
+          title: 'Comparative Analysis of TLR4 in Songbirds',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'In this project, I assembled the genome of the American Goldfinch (<i>Spinus tristis</i>) and annotated its genes. Here is a graphic showing how the TLR4 in the American Goldfinch experienced an inversion after splitting from the House Finch (<i>Haemorhous mexicanus</i>).',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
