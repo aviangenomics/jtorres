@@ -57,8 +57,8 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'triciavanlaar',
-    twitter: 'tvanlaarmicro',
+    linkedin: 'jair-torres-454a91229',
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -71,13 +71,13 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
+    website: 'https://aviangenomics.github.io',
     phone: '',
-    email: 'tvanlaar@csustan.edu',
+    email: 'jtorres58@csustan.edu',
   },
   resume: {
     fileUrl:
-      'CV_Torres.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Bioinformatics', 'Genome Assembly', 'Gene Annotation', 'Python', 'R'
@@ -155,7 +155,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'coffee',
+    defaultTheme: 'lofi',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
